@@ -9,4 +9,4 @@ A Menu object includes six items:
    
    Where Text is a class that represents the character strings.
 
-List of options can be pushed at the end , the last option can be popped back , Option from the specifiedoption can be removed and Inserted by providing the Index.
+List of options can be pushed at the end , the last option can be popped back , Option from the specified option can be removed and Inserted by providing the Index.
